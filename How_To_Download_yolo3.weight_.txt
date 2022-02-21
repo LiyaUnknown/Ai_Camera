@@ -1,0 +1,2 @@
+How to download yolo3.weight
+you can download yolo3 from this link : "https://pjreddie.com/darknet/yolo/"
